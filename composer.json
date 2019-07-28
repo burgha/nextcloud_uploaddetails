@@ -1,0 +1,15 @@
+{
+    "name": "Upload Details",
+    "description": "Shows Upload Details (percent complete, current speed, ...) in Progress Bar",
+    "type": "project",
+    "license": "AGPL",
+    "authors": [
+        {
+            "name": "Hannes Burger"
+        }
+    ],
+    "require": {},
+    "require-dev": {
+        "phpunit/phpunit": "^5.4"
+    }
+}
