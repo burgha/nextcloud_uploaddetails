@@ -10,9 +10,9 @@
     <author mail="hburger30@gmail.com">Hannes Burger</author>
     <namespace>UploadDetails</namespace>
     <category>tools</category>
-    <screenshot>https://github.com/burgha/nextcloud_uploaddetails/raw/master/screenshot.png</screenshot>
     <bugs>https://github.com/burgha/nextcloud_uploaddetails</bugs>
+    <screenshot>https://raw.githubusercontent.com/burgha/nextcloud_uploaddetails/master/screenshot.png</screenshot>
     <dependencies>
-        <nextcloud min-version="16" max-version="16"/>
+        <nextcloud min-version="16" max-version="17"/>
     </dependencies>
 </info>
