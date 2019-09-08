@@ -5,11 +5,12 @@
     <name>Upload Details</name>
     <summary>Shows Upload Details (percent complete, current speed, ...) in Upload Progress Bar</summary>
     <description><![CDATA[By default, the Nextcloud upload progress bar only shows an estimated time to completion. This App adds useful information like the current upload speed, completion in percent and uploaded/total file size.]]></description>
-    <version>0.1.0</version>
+    <version>0.1.1</version>
     <licence>agpl</licence>
     <author mail="hburger30@gmail.com">Hannes Burger</author>
     <namespace>UploadDetails</namespace>
     <category>tools</category>
+    <website>https://github.com/burgha/nextcloud_uploaddetails</website>
     <bugs>https://github.com/burgha/nextcloud_uploaddetails</bugs>
     <screenshot>https://raw.githubusercontent.com/burgha/nextcloud_uploaddetails/master/screenshot.png</screenshot>
     <dependencies>
