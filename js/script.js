@@ -2,9 +2,9 @@
     'use strict';
 
     $(window).load(function() {
-        const targetNode = document.getElementById('uploadprogressbar');
-        const config = { attributes: true, childList: false, subtree: false };
-        const callback = function(mutationsList, observer) {
+        var targetNode = document.getElementById('uploadprogressbar');
+        var config = { attributes: true, childList: false, subtree: false };
+        var callback = function(mutationsList, observer) {
             if (mutationsList[0].attributeName !== "original-title") {
                 return;
             }
@@ -15,7 +15,7 @@
             $("#uploadprogressbar .label").css("overflow", "visible");
         };
         
-        const observer = new MutationObserver(callback);
+        var observer = new MutationObserver(callback);
         observer.observe(targetNode, config);
     });
 })(window, jQuery);
