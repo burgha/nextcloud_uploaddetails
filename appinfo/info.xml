@@ -4,7 +4,7 @@
     <id>uploaddetails</id>
     <name>Upload Details</name>
     <summary>Shows Upload Details (percent complete, current speed, ...) in Upload Progress Bar</summary>
-    <description><![CDATA[[DEPRECATED: I worked with the Nextcloud-Team to bring this functionality into Core. As of Nextcloud 18 this app is no longer necessary. Simply hover over the Progressbar to show advanced details. Thanks to the Nextcloud-Team for helping me out.]\n\nBy default, the Nextcloud upload progress bar only shows an estimated time to completion. This App adds useful information like the current upload speed, completion in percent and uploaded/total file size.]]></description>
+    <description>[DEPRECATED: I worked with the Nextcloud-Team to bring this functionality into Core. As of Nextcloud 18 this app is no longer necessary. Simply hover over the Progressbar to show advanced details. Thanks to the Nextcloud-Team for helping me out.]\n\nBy default, the Nextcloud upload progress bar only shows an estimated time to completion. This App adds useful information like the current upload speed, completion in percent and uploaded/total file size.]</description>
     <version>0.1.2</version>
     <licence>agpl</licence>
     <author mail="hburger30@gmail.com">Hannes Burger</author>
